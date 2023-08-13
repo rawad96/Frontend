@@ -8,4 +8,4 @@ Product Management: Keep your inventory organized by adding, updating, and manag
 
 Purchase Transactions: Allow users to purchase products seamlessly. The system records each transaction, helping you track sales and customer preferences.
 
-Search Functionality: Looking for specific purchase information? You can search for purchases by date, product name, and user name, making data retrieval a breeze.
+Search Functionality: Looking for specific purchase information? You can search for purchases by date, product name, and user name, making data retrieval a breeze. 
