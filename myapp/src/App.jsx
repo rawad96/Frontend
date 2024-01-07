@@ -242,7 +242,7 @@ function App() {
                 </a>
                 <div className="portfolio-caption">
                   <div className="portfolio-caption-heading">High-Tech Placement Website</div>
-                  <div className="portfolio-caption-subheading text-muted">Full Stack Developer</div>
+                  <div className="portfolio-caption-subheading text-muted">Full Stack Development</div>
                   <div className="portfolio-caption-subheading text-muted" style={{ visibility: showWeb ? "visible" : "hidden", height: showWeb ? "unset" : "0px" }}>
                     <p>
                       An advanced placement platform designed to meet the needs of both job seekers and organizations seeking to advertise employment opportunities. This
